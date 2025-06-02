@@ -1,2 +1,2 @@
 # code_demo
-this is mu first git repository
+this is my first git repository
